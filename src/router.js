@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import HelloContainer from "./components/HelloWorld.vue"
 
 
 // 为 Exam01.vue组件指定访问路径
