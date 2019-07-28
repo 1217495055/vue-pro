@@ -10,6 +10,11 @@ import 'mint-ui/lib/style.css'
 Vue.use(MintUI)
 // 4 将字体图标引入到项目中
 import '@/font/iconfont.css'
+// 引入axios模块
+import axios from 'axios'
+Vue.prototype.axios = axios;
+
+
 
 
 
